@@ -1,2 +1,14 @@
-# programacao-imperativa
-Conteúdo sobre programação Imperativa em Linguagem C
+# Programação Imperativa
+- Introdução a Programação Imperativa
+- Estruturas de Controle e Repetição
+- Funções
+- Vetores e matrizes
+- Strings
+- Estruturas de dados Heterogêneas
+- Recursividade
+- Ponteiros
+- Modularização
+- Ferramentas de apoio a programação
+- Árvores Binárias, Pesquisa Binária e Algoritmos de Ordenação
+- Alocação, realocação e liberação de memória dinamicamente
+- Manipulação de arquivos
